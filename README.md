@@ -1,0 +1,2 @@
+# KaggleDeepLearningBook
+Kaggleに挑む深層学習プログラミングの極意を実装していきます。
